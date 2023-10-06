@@ -27,3 +27,15 @@ img{
     height: 120px;
 
 }
+.listacabecalho{
+    display: flex;
+    margin-top: 70px;
+    margin-left: 200px;
+
+}
+.itemlista{
+    list-style: none;
+    padding-left: 75px;
+    font-size: 25px;
+
+}
