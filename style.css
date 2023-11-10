@@ -19,7 +19,7 @@ img{
     border: 5px solid black;
 }
 .cabecalho{
-    background-color: blanchedalmond;
+    background-color: lightgrey;
     display: flex;
 } 
 .logoimg{
